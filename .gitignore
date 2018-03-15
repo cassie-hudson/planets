@@ -1,0 +1,3 @@
+##These files will not be saved to the repository.##
+*.dat
+results/
